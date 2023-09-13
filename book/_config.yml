@@ -14,7 +14,7 @@ baseurl: '/'
 rss: RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: ZaqueuLima3/android-book/book
+remote_theme: ZaqueuLima3/android-book/tree/main/book
 
 toc:
   enabled: true
